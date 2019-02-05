@@ -1,0 +1,46 @@
+/*
+Theme Name: Sale Lagtop
+Author: Denis Sanchez Leyva
+Author URI: https://mywebsite.com/
+Description: Landscape Page Sale Lagtop
+Version: 0.0.1
+*/
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+
+brand-logo {
+     padding-left: 25px;
+}
+
+h4, p {
+    text-align: center;
+}
+
+
+
+.price {
+    min-width: 200px;
+    min-height: 200px;
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    border-radius: 100px;
+    padding: 0px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.valor {
+    color: white;
+  
+}
+
